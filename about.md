@@ -28,6 +28,9 @@ Preferred machine learning (scikit, xgboost), data visualization (D3.js), big da
 ### Education
 I have a Masters degree from University of Connecticut in Data Science. Also an MBA from Indian School of Business, Hyderabad and Engineering degree from CEG, Chennai. In the past, I have worked on several projects in financial services, manufacturing & retail industries. 
 
+### Contact
+I'm also available for hire as a freelance data scientist, or consultant. Drop me a line about your project if you're interested in working with me.
+
 ### Acknowledgements
 I used Balzac theme on top of Jekyll blog engine for this site. I tend to publish quite infrequently here.
 
