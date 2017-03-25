@@ -4,8 +4,7 @@ permalink: /about/index.html
 title: About me
 description: >-
   My name is Suresh Shanmugam. I work as a data scientist to improve healthcare
-  business. I have experience in using data to generate insights and make better
-  decisions. I enjoy programming & tinkering  electronics.
+  business.
 tags:
   - about
   - Jekyll
@@ -16,7 +15,7 @@ image:
 published: true
 ---
 
-Hands-on expert in Machine Learning, Natural Language Processing, Text Mining, and Sentiment Analysis. My work relies heavily on implementing efficient program algorithms, Monte Carlo modeling, and performing statistical inference. 
+I have experience in using data to generate insights and make better decisions. I enjoy programming & tinkering  electronics. I have hands-on experience in Machine Learning, Natural Language Processing, Text Mining, and Sentiment Analysis. My work relies heavily on implementing efficient program algorithms, Monte Carlo modeling, and performing statistical inference. 
 
 ### Skills
 Preferred machine learning (scikit, xgboost), data visualization (D3.js), big data (Spark), deep learning (Theano, Keras, TensorFlow).
