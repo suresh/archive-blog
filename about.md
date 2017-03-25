@@ -2,10 +2,7 @@
 layout: post
 permalink: /about/index.html
 title: About me
-description: >-
-  Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's
-  gloriously beautiful and suited to long form. Built on a SCSS foundation, it's
-  organized and awesome.
+description: "My name is Suresh Shanmugam. I work as a data scientist to improve healthcare business. I have \t  experience in using data to generate insights and make better decisions. I enjoy programming & tinkering  electronics."
 tags:
   - about
   - Jekyll
