@@ -1,18 +1,18 @@
 title:            Suresh Shanmugam
-tagline:          Analytics & Marketing
-description:      Describe your website.
+tagline:          Analytics & Strategy
+description:      Articles on data science, startups and strategy.
 canonical: http://suresh.github.io
 
 # Owner/author information
 owner:
   name:           Suresh Shanmugam
   avatar:         avatar.png
-  bio:            "Analyst & Developer"
+  bio:            "Data Scientist. Business Strategy."
   email:          sureshkumar.ps@gmail.com
   twitter:        suresh_p
   github:         suresh
   instagram:      suresh_shanmugam
-  location:       "Hartford, CT"
+  location:       "New York, NY"
   # Plug in your disqus shortname!
 
 tools:
