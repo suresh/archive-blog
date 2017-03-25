@@ -29,6 +29,5 @@ Preferred machine learning (scikit, xgboost), data visualization (D3.js), big da
 I have a Masters degree from University of Connecticut in Data Science. Also an MBA from Indian School of Business, Hyderabad and Engineering degree from CEG, Chennai. In the past, I have worked on several projects in financial services, manufacturing & retail industries. 
 
 ### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help.
+I used Balzac theme on top of Jekyll blog engine for this site. I tend to publish quite infrequently here.
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
