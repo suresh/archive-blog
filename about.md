@@ -2,13 +2,27 @@
 layout: post
 permalink: /about/index.html
 title: About me
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
+description: >-
+  Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's
+  gloriously beautiful and suited to long form. Built on a SCSS foundation, it's
+  organized and awesome.
+tags:
+  - about
+  - Jekyll
+  - theme
+  - responsive
 image:
   feature: soft-trees.jpg
+published: true
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it.
+Hands-on expert in Machine Learning, Natural Language Processing, Text Mining, and Sentiment Analysis. My work relies heavily on implementing efficient program algorithms, Monte Carlo modeling, and performing statistical inference. Preferred machine learning (scikit, xgboost), data visualization (D3.js), big data (Spark), deep learning (Theano, Keras, TensorFlow).
+
+I have a Masters degree from Indian School of Business, Hyderabad and engineering degree from CEG, Chennai. I have worked on several projects in financial services, manufacturing & retail industries. 
+
+SKILLS
+Python [pandas, scikit-learn, numpy, pyspark], R, Scala, SQL [Hive, PostgreSQL, MySQL], Linux [bash,
+command line], Git [GitHub], AWS [EMR, S3, EC2], Spark [MLlib, GraphX, DataFrames].
 
 ### Features
 * flexible, uses max-width for responsive goodness
