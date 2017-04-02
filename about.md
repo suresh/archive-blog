@@ -19,7 +19,7 @@ I have experience in using data to generate insights and make better decisions. 
 ### Skills
 Preferred machine learning (scikit, xgboost), data visualization (D3.js), big data (Spark), deep learning (Theano, Keras, TensorFlow).
 * Python [pandas, scikit-learn, numpy, pyspark]
-* R
+* R [ggplot, caret, data.table, dplyr/tidyr]
 * Scala, Spark [MLlib, GraphX, DataFrames]
 * SQL [Hive, PostgreSQL, MySQL]
 * Linux & MacOS, Git [GitHub], AWS [EMR, S3, EC2]
