@@ -64,9 +64,11 @@ blockquote, blockquote p {
 
 code {
     color: $accent;
-    font-family: "Monaco", "Courier New", "Courier";
-    font-size: .9em;
-    font-weight: bold;
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 12px;
+    line-height: 20px;
+    word-wrap: normal;
+    white-space: pre;
 }
 
 /*
@@ -195,7 +197,7 @@ Inline Code
 ---------------------------------------------------------*/
 
     p code{
-    font-size: 14px;}
+    font-size: 12px;}
 
 
 
