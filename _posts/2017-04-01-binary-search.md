@@ -5,7 +5,18 @@ description: "Portland in shoreditch Vice, labore typewriter pariatur hoodie fap
 category: articles
 tags: [sample post, readability, test]
 ---
+Want to learn more? Check out [Data Structures and Algorithms in Python](http://amzn.to/2kjkqWQ)
 
+## Create Sorted List
+
+
+```python
+sorted_list = list(range(20))
+
+sorted_list
+```
+
+    [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 ## Create A Binary Search Algorithm
 
 ```python
