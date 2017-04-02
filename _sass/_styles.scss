@@ -86,10 +86,14 @@ $green:    #3AE25C; //  operators, other keywords
 
 .highlight {
     background-color: $bg-color; color: $body;
-
+    padding: 12px;
+    border-radius: 4px;
+    margin-bottom: $lh;
+    overflow-x: scroll;  
+  
     span {
-        font-weight: 300;
-        font-family: 'Source Code Pro', serif;
+        font-size: .9em;
+        font-family: "Monaco", "Courier New", "Courier";
     }
 
     .c { color: $base01; } /* Comment */
