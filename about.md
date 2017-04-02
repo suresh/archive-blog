@@ -3,8 +3,7 @@ layout: post
 permalink: /about/index.html
 title: About me
 description: >-
-  My name is Suresh Shanmugam. I work as a data scientist to improve healthcare
-  business.
+  I'm Suresh Shanmugam and work as a data scientist. I have experience in using data and models/insights to improve operations of variety of businesses. 
 tags:
   - about
   - Jekyll
