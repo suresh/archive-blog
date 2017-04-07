@@ -65,7 +65,9 @@ blockquote, blockquote p {
 code {
     color: $accent;
     font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
     line-height: 20px;
     word-wrap: normal;
     white-space: pre;
