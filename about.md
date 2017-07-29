@@ -14,8 +14,6 @@ image:
 published: true
 ---
 
-I have experience in using data to generate insights and make better decisions. I enjoy programming & tinkering  electronics. I have hands-on experience in Machine Learning, Natural Language Processing, Text Mining, and Sentiment Analysis. My work relies heavily on implementing efficient program algorithms, Monte Carlo modeling, and performing statistical inference. 
-
 ### Skills
 Preferred machine learning (scikit, xgboost), data visualization (D3.js), big data (Spark), deep learning (Theano, Keras, TensorFlow).
 * Python [pandas, scikit-learn, numpy, pyspark]
@@ -24,8 +22,11 @@ Preferred machine learning (scikit, xgboost), data visualization (D3.js), big da
 * SQL [Hive, PostgreSQL, MySQL]
 * Linux & MacOS, Git [GitHub], AWS [EMR, S3, EC2]
 
+### Work
+I'm interested in Machine Learning, Natural Language Processing, Text Mining, and Sentiment Analysis. My work relies heavily on implementing efficient program algorithms, Monte Carlo modeling, and performing statistical inference. In the past, I have worked on several firms in financial services, manufacturing & retail industries. 
+
 ### Education
-I have a Masters degree from University of Connecticut in Data Science. Also an MBA from Indian School of Business, Hyderabad and Engineering degree from CEG, Chennai. In the past, I have worked on several projects in financial services, manufacturing & retail industries. 
+I have a Masters degree from University of Connecticut in Analytics. Also, an MBA from Indian School of Business, Hyderabad and Engineering degree from CEG, Chennai. 
 
 ### Contact
 I'm also available for hire as a freelance data scientist, or consultant. Drop me a line <a id="mail" href="mailto:{{ site.owner.email }}"> here </a> about your project if you're interested in working with me.
