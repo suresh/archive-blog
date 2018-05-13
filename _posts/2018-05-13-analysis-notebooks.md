@@ -8,7 +8,7 @@ tags:
 category: articles
 ---
 
-Here are some reasons why you might want to keep an analysis notebook
+## Here are some reasons why you might want to keep an analysis notebook
 1.  To provide yourself with a complete record of why experiments were initiated and how they were performed. You'll forget if you don't. Seriously, even in your youth your brain cells are fading, and even the exciting moments of your science will fade.
 2.  To give yourself a central, physical place to record your data, to note statistical outcomes, and to paste graphs that show results. Data scientists who jot notes on Post-Its, paper towels, and palms are unlikely to be effective in the laboratory.
 3.  To encourage sound thinking. Keeping a notebook gives you a forum to talk to yourself – to ask questions, to record important thoughts about the experimental design, and to speculate how your results might eventually be interpreted.
