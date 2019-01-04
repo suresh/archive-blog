@@ -25,3 +25,5 @@ category: articles
 7.  Before you finish for the day, make sure you can knit the notebook (if you're using caching, make sure to clear the caches). That will let you fix any problems while the code is still fresh in your mind.
 8.  If you want your code to be reproducible in the long-run (i.e. so you can come back to run it next month or next year), you'll need to track the versions of the packages that your code uses. A rigorous approach is to use packrat which store packages in your project directory, or checkpoint which will reinstall packages available on a specific date. A quick and dirty hack is to include a chunk that runs sessionInfo() - that won't you let easily recreate your packages as they are today, but at least you'll know what they were.
 9.  You are going to create many analysis notebooks over the course of your career. How are you going to organize them so you can find them again in the future? I recommend storing them in individual projects, and coming up with a good naming scheme.
+
+Can we get a real editor workflow setup using this product that seems to challenge the notion of computers.
