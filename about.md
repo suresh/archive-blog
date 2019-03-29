@@ -26,10 +26,10 @@ Preferred machine learning (scikit, xgboost), data visualization (D3.js), big da
 I'm interested in Machine Learning, Natural Language Processing, Text Mining, and Sentiment Analysis. My work relies heavily on implementing efficient program algorithms, Monte Carlo modeling, and performing statistical inference. In the past, I have worked on several firms in financial services, manufacturing & retail industries. 
 
 ### Education
-I have a Masters degree from University of Connecticut in Analytics. Also, an MBA from Indian School of Business, Hyderabad and Engineering degree from CEG, Chennai. 
+I have a Masters degree from University of Connecticut in Business Analytics. Also, an MBA from Indian School of Business, Hyderabad and Engineering degree from CEG, Chennai. 
 
 ### Contact
-I'm also available for hire as a freelance data scientist, or consultant. Drop me a line <a id="mail" href="mailto:{{ site.owner.email }}"> here </a> about your project if you're interested in working with me.
+Drop me a line <a id="mail" href="mailto:{{ site.owner.email }}"> here </a> about anythin or your project if you're interested in working with me.
 
-### Acknowledgements
+#### Acknowledgements
 I used Balzac theme on top of Jekyll blog engine for this site. I tend to publish quite infrequently here.
