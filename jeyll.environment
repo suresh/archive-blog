@@ -1,0 +1,5 @@
+{% if jekyll.environment == "production" %}
+  <a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
+{% else %}
+  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+{% endif %}
