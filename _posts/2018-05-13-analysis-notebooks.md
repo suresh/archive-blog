@@ -8,14 +8,14 @@ tags:
 category: articles
 ---
 
-## Here are some reasons why you might want to keep an analysis notebook
+### Here are some reasons why you might want to keep an analysis notebook
 1.  To provide yourself with a complete record of why experiments were initiated and how they were performed. You'll forget if you don't. Seriously, even in your youth your brain cells are fading, and even the exciting moments of your science will fade.
 2.  To give yourself a central, physical place to record your data, to note statistical outcomes, and to paste graphs that show results. Data scientists who jot notes on Post-Its, paper towels, and palms are unlikely to be effective in the laboratory.
 3.  To encourage sound thinking. Keeping a notebook gives you a forum to talk to yourself – to ask questions, to record important thoughts about the experimental design, and to speculate how your results might eventually be interpreted.
 4.  To provide information to a person who is interested in continuing your research project, even if you deem that possibility hilariously unlikely. And if you're doing important research and die an early, gruesome death, your lab-mates might want to pick it up. 
 5.  To get rich. Not everyone sets out with the goal of patenting a process or contraption, but you might stumble onto something actually important, and in such an event you must have a notebook that supports your claims. Your competitor in court will.
 
-## What should go into your notebook:
+### What should go into your notebook:
 1.  Include detailed notes on all discussions and thoughts on the experimental goals. This means, of course, that you should start making dated entries immediately rather than waiting until you get your experiments started. 
 2.  Ensure each notebook has descriptive title, an evocative filename, and a first paragraph that briefly describes the aims of the analysis.
 3.  Use the YAML header date field to record the date your started working on the notebook. Use ISO8601 YYYY_MM_DD format so that’s there no ambiguity. Use it even if you don't normally write dates that way.
