@@ -221,11 +221,17 @@ hr {
     display: block;
     margin: 0 auto;
     width: 100%;
-    height: 4px;
+    height: 1em;
     background: $grey-light;
     border: none;
     margin-bottom: $lh;
     border-radius: 2px;
+}
+
+.simple-line {
+    margin: 3em auto 1em auto;
+    background: none;
+    border-top: 0.2rem solid #F8E71C;
 }
 
 input {
