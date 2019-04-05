@@ -1,6 +1,6 @@
 ---
 title: "Analysis using Notebooks"
-description: Why maintainig an analysis notebook makes sense
+description: 
 layout: post-no-feature
 tags:
 - notebooks
