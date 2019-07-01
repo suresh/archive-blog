@@ -3,7 +3,7 @@ layout: post
 permalink: /about/index.html
 title: About Suresh
 description: >-
-  I am a data scientist. I have experience in using data and models and improve operations of variety of businesses. 
+  I am a data scientist. I help improve operations of businesses using have experience in using data and models. 
 tags:
   - about
   - Jekyll
@@ -23,7 +23,7 @@ Preferred machine learning (scikit, xgboost), data visualization (D3.js), big da
 * Linux & MacOS, Git [GitHub], AWS [EMR, S3, EC2]
 
 ### Work
-I'm interested in Machine Learning, Natural Language Processing, Text Mining, and Sentiment Analysis. My work relies heavily on implementing efficient program algorithms, Monte Carlo modeling, and performing statistical inference. In the past, I have worked on several firms in financial services, manufacturing & retail industries. 
+I execute projects in Machine Learning, Natural Language Processing, Text Mining, and Sentiment Analysis. My work relies heavily on implementing efficient program algorithms, Monte Carlo modeling, and performing statistical inference. In the past, I have worked on several firms in financial services, manufacturing & retail industries. 
 
 ### Education
 I have a Masters degree from University of Connecticut in Business Analytics. Also, an MBA from Indian School of Business, Hyderabad and Engineering degree from CEG, Chennai. 
