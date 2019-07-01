@@ -14,6 +14,3 @@ This method allows inclusion of styled cell input and output, including graphs. 
 $ jupyter nbconvert sample_notebook.ipynb --to markdown
 ```
 
-You can read more about converting Jupyter notebooks here. In your terminal you should see the following:
-
-
