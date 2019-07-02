@@ -7,7 +7,7 @@ tags:
  - ML
  - Data Science
 ---
-# 100 Days of Machine Learning
+## 100 Days of Machine Learning
 Here is my attempt at creating content that I would like to comeback over the course of thenext few years. These posts are single ideas taken from start to completion. Each should be a standalone. Referred multiple times.
 
 ## My tools
