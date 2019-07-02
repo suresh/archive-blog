@@ -1,2 +1,2 @@
-# suresh.github.io
-Suresh's blog on data science
+# sureshshanmugam.com
+Suresh's blog on machine learning, data science

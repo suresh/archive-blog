@@ -1,14 +1,14 @@
 title:            Suresh Shanmugam
-tagline:          Analytics & Strategy
+tagline:          Data Science, Machine Learning & Strategy
 description:      Articles on data science, startups and strategy.
-canonical:        https://suresh.github.io
+canonical:        https://sureshshanmugam.com
 
 # Owner/author information
 owner:
   name:           Suresh Shanmugam
   avatar:         avatar.png
   bio:            "Data Scientist. Business Strategy."
-  email:          suresh.shanmugam@icloud.com 
+  email:          suresh.shanmugam@icloud.com
   twitter:        suresh_p
   github:         suresh
   instagram:      suresh_shanmugam
@@ -22,7 +22,7 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+    - title: About Me
     url: /about
   - title: Github
     url: https://github.com/suresh
