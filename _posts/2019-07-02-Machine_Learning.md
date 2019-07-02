@@ -19,7 +19,7 @@ This path length, averaged over a forest of such random trees, is a measure of n
 
 Random partioning produces noticeable shorter paths for anomalies. Hence, when a forest of random trees collectively produce shorter path lengths for particular samples, they are highly likely to be anomalies.
 
-## Dataset
+## Example
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -69,6 +69,6 @@ plt.show()
 
 ```
 
-## Conclusion
+## Visualization
 ![Isolation Forest]({{site.url}}/images/sphx_glr_plot_isolation_forest_001.png)
 
