@@ -22,7 +22,7 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-    - title: About Me
+  - title: About Me
     url: /about
   - title: Github
     url: https://github.com/suresh
