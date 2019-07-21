@@ -3,7 +3,7 @@ layout: post
 permalink: /about/index.html
 title: About Suresh Shanmugam
 description: >-
-  I am a data scientist. I help improve operations of businesses using have experience in using data and models.
+  I am a data scientist. I help improve operations of businesses using data and models. I have work experience in Financial Services Industry and Technology companies.
 tags:
   - about
   - Jekyll
