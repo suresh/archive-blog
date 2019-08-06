@@ -32,10 +32,10 @@ pipe
 Parameters of the estimators in the pipeline can be accessed using the *<estimator>__<parameter>* syntax:
 ```python
 pipe.set_params(clf__C=10)
-Pipeline(memory=None,
-         steps=[('reduce_dim', PCA(copy=True, iterated_power='auto',...)),
-                ('clf', SVC(C=10, cache_size=200, class_weight=None,...))],
-         verbose=False)
+>>> Pipeline(memory=None,
+>>>         steps=[('reduce_dim', PCA(copy=True, iterated_power='auto',...)),
+>>>                ('clf', SVC(C=10, cache_size=200, class_weight=None,...))],
+>>>         verbose=False)
 ```
 
 ## Model Selection using Grid Search
