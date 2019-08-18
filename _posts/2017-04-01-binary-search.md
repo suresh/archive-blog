@@ -9,6 +9,7 @@ Want to learn more? Check out [Data Structures and Algorithms in Python](http://
 
 ## Create Sorted List
 
+We need a sorted list for binary search algorithm. This can be created using these two lines:
 
 ```python
 sorted_list = list(range(20))
@@ -16,8 +17,7 @@ sorted_list = list(range(20))
 sorted_list
 ```
 
-    [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
-    
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 
 ## Create A Binary Search Algorithm
 
@@ -62,8 +62,8 @@ def binary_search(sorted_list, target):
 binary_search(sorted_list, 7)
 ```
 
-    Search area: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
-    Search area: [0, 1, 2, 3, 4, 5, 6, 7, 8]
-    Search area: [4, 5, 6, 7, 8]
-    Search area: [6, 7, 8]
-    Found it! 7
+Search area: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Search area: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Search area: [4, 5, 6, 7, 8]
+Search area: [6, 7, 8]
+Found it! 7

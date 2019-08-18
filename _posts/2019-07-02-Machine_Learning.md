@@ -8,9 +8,11 @@ tags:
  - Data Science
 ---
 ## Anamolies in Data
+
 Outlier detection is similar to novelty detection in the sense that the goal is to separate a core of regular observations from some polluting ones, called *outliers*. Yet, in the case of outlier detection, we don't have a clean data set representing the population of regular observations that can be used to train any tool.
 
 ## Isolation Forest
+
 One efficient way of performing outlier detection in high-dimensional datasets is to use random forests. The *ensemble.IsolationForest* 'isolates' observations by randomly selecting a feature and then randomly selecting a split value between the maximum and minimum values of the selected feature.
 
 Since recursive partitioning can be represented by a tree structure, the number of splittings required to isolate a sample is  equivalent to the path length from the root node to the terminating node.
@@ -20,6 +22,7 @@ This path length, averaged over a forest of such random trees, is a measure of n
 Random partioning produces noticeable shorter paths for anomalies. Hence, when a forest of random trees collectively produce shorter path lengths for particular samples, they are highly likely to be anomalies.
 
 ## Example
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -70,5 +73,5 @@ plt.show()
 ```
 
 ## Visualization
-![Isolation Forest]({{site.url}}/images/sphx_glr_plot_isolation_forest_001.png)
 
+![Isolation Forest]({{site.url}}/images/sphx_glr_plot_isolation_forest_001.png)
