@@ -18,7 +18,7 @@ For this illustration, we are going to use [citibike dataset](https://s3.amazona
 
 Pandas 'read_csv' method gives a nice way to handle large files. Parameter **'chunksize'**  supports optionally iterating or breaking of the file into chunks.
 
-By specifying a chunksize to read_csv, the return value will be an iterable object of type TextFileReader. 
+By specifying a chunksize to read_csv, the return value will be an iterable object of type TextFileReader.
 
 ## Example
 
@@ -43,6 +43,7 @@ for data_chunk in pd.read_csv(csv_url, chunksize=c_size):
 
 results = results.groupby(results.index).sum() 
 ```
+
 Specifying iterator=True will also return the TextFileReader object:
 
 ```python
